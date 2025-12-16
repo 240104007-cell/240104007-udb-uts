@@ -24,12 +24,10 @@ cd 240104007-udb-uts
 
 ---
 
-### 🔹 3️⃣ TAMBAHKAN BAGIAN SCREENSHOT (PALING PENTINNG
-
 ```md
 ## Screenshot
 
 1. ![Docker PS](images/dockerps.png)
 2. ![Adminer ZeroTier](images/adminer.ZeroTier.png)
-3. ![MySQL](images/MySQL.png)
-4. ![PostgreSQL](images/postgreSQL.png)
+3. ![Login MySQL](images/MySQL.png)
+4. ![Login PostgreSQL](images/postgreSQL.png)
