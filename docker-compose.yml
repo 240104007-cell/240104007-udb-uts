@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
   mysql:
     image: mysql:8.0
@@ -28,7 +26,7 @@ services:
     image: adminer
     container_name: uts_adminer
     ports:
-      - "IP_ZEROTIER_KAMU:8007:8080"
+      - "8007:8080"
     networks:
       uts_internal_net:
         ipv4_address: 172.30.7.30
@@ -39,3 +37,6 @@ networks:
     ipam:
       config:
         - subnet: 172.30.7.0/24
+
+
+
