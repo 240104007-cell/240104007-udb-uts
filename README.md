@@ -29,14 +29,7 @@ cd 240104007-udb-uts
 ```md
 ## Screenshot
 
-### Docker PS
-![Docker PS](images/dockerps.png)
-
-### Adminer via ZeroTier
-![Adminer ZeroTier](images/adminer.ZeroTier.png)
-
-### Login Adminer ke MySQL
-![MySQL](images/MySQL.png)
-
-### Login Adminer ke PostgreSQL
-![PostgreSQL](images/postgreSQL.png)
+1. ![Docker PS](images/dockerps.png)
+2. ![Adminer ZeroTier](images/adminer.ZeroTier.png)
+3. ![MySQL](images/MySQL.png)
+4. ![PostgreSQL](images/postgreSQL.png)
